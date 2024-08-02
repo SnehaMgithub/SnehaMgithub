@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **snehamathes2000@gmail.com**
 
-- ⚡ Fun fact **JavaScript — the king of the coding kingdom**
+- ⚡ Fun fact **Write it. Run it. Fix it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
